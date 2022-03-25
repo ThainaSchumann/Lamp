@@ -1,2 +1,3 @@
-# Lamp
- small project in Javascript  teacher: Fernando Leonid
+# Lâmpada JS
+
+Projeto em javascript para iniciar a interação com elementos HTML.
